@@ -1,0 +1,13 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+#regenButton{
+  margin: 10px;
+  background-color: green;
+  color: white;
+  font-size: 30px;
+}
+#generatedimage{
+  contain: content,
+}
